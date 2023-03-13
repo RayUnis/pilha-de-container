@@ -26,6 +26,3 @@ O container A2 desembarcou
 O container A1 desembarcou
 
 ```
-```#� �p�i�l�h�a�-�d�e�-�c�o�n�t�a�i�n�e�r�
-�
-�
